@@ -31,7 +31,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    FILE *keyFile = fopen("key.txt", "r"); // Корекция: FILE *
+    FILE *keyFile = fopen("key.txt", "r"); 
     if (!keyFile) {
         perror("Error opening key.txt");
         return 1;
