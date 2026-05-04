@@ -1,0 +1,26 @@
+Faktorizaciq: tursim 2 prosti chisla ,koito 
+pri umnojenie da dadat 2701 ,tova mojem da napravim kato delim 2701 ,dokato ne poluchim dvete chisla ,kato mojem 
+da go napraim polzvaiki for cikul s nachalo 2 ,dokato i e po-malko ot koren kvdadranten
+ot N. V sluchaq p=37 i q=73.
+Funkciq na oiler: tuk samo zamestvame neizvgesnite ot formulata
+f(N)=(p-1)*(q-1)
+f(2701)=(37-1)*(73-1)
+f(2701)=36*72
+f(2701)=2592
+Algoritum na Evklid:imame izvestno che e=19
+d*e=1
+d*19=1
+Tursim NOD(2592,19)
+tursim nai-golqmoto chislo, koeto umnojeno po 19 e <=2592
+19*136=2584
+2592=2584+8
+1=19*d-f(2592)*k
+1=19*d+2592*k 
+ideqtaa e kogato umjonin po 19 da poluchim kislo keto pri delenie na
+2592 da dava ostatuk 1
+poluchavame 19*955=18145
+18145%2592=7 s r=1
+d=955
+Dekriptirane:
+m=C^d mod n
+C=1111

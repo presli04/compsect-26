@@ -1,0 +1,16 @@
+Man-in-the-middle: Kogato podatelq sse opita da izprati
+publichen kluch na poluchatel ,atakuvashtiq go prihvashta
+atakusvashtiq izprashta svoi kluch na predishniq poluchatel
+predstavqiki go za purvonalhanliq kluch ,na svoe vreme 
+poluchatleq sishto izprasha sobsvteniq si kluch,sega te dvamata
+izpolzvat klucha na atakuvashtuiq, koeto mu razreshava da 
+dekriptira vsqko suobshtenie,bez sertifikat nqma kak da 
+se potvurdi che poluchniq kluch naistina prinadleji na choveka ,s 
+kogoto komunikirat.
+
+Avalanche effect: Ochakva se da se promenqt 128 bita
+,nujno e hesha da se promenq drastichno ,za da ima sigurnost
+,zashoto inaje moje da se nameri slabost pri analiz na razlikite.
+
+OTP slabost:Ako atakuvashtiq izpolzva XOR moje da razbite ONE
+Time PAd
